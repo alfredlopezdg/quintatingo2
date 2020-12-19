@@ -1,0 +1,255 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="quinta.com" resolutions="1x" timestamp="1608365053057">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="459344712" ref="index"/>
+    <file name="index.css" crc="224456811" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u2297.php" crc="525581082" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="quinta-el-tingo-favicon.ico" crc="332797833" ref="index"/>
+    <file name="dsc_0487.jpg" crc="4137830275" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telefono.png" crc="4022517604" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook gris.png" crc="13590714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico whatsapp gris.png" crc="4117918431" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram gris.png" crc="139811108" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.svg" crc="496737740" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_poster_.png" crc="207919206" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="dsc_0511721x481.jpg" crc="353249093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0518.jpg" crc="127804820" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tungurahua.jpg" crc="359436368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0451.jpg" crc="3776611573" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="marco.png" crc="506513832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg somos.jpg" crc="4230849560" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="uno.jpg" crc="3786024959" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dos.jpg" crc="185609183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tres.jpg" crc="243957780" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cinco.jpg" crc="4195910143" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cuatro.jpg" crc="167902408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="seis.jpg" crc="3879161589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="uno122x82.jpg" crc="218890768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dos122x82.jpg" crc="4054975723" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tres122x82.jpg" crc="140121437" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cinco122x77.jpg" crc="94790395" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cuatro122x82.jpg" crc="183352893" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="seis122x83.jpg" crc="345057501" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0511.jpg" crc="128931180" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico-ubicacion.svg" crc="3919179160" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico ubicacion_poster_.png" crc="3985572580" ref="index"/>
+    <file name="ico-aojamiento.svg" crc="420863062" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico aojamiento_poster_.png" crc="3993293567" ref="index"/>
+    <file name="ico-reservaciones.svg" crc="4012510346" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico reservaciones_poster_.png" crc="351050720" ref="index"/>
+    <file name="bg galeria.jpg" crc="420897468" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0493.jpg" crc="3763328666" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0511916x611.jpg" crc="3856341973" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0445.jpg" crc="3855014850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0446.jpg" crc="266293821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0453.jpg" crc="292809567" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0471.jpg" crc="4144001270" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0477.jpg" crc="3788566012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0487916x611.jpg" crc="4151474390" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0494.jpg" crc="228963881" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0499.jpg" crc="424254649" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0503.jpg" crc="3869779204" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0510.jpg" crc="4210970219" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0514.jpg" crc="534523032" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0518217x142.jpg" crc="3758661223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0493217x145.jpg" crc="4068600697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0511217x145.jpg" crc="4126852989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0445217x145.jpg" crc="4088634620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0446217x145.jpg" crc="3911108750" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0451217x145.jpg" crc="367791750" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0453217x145.jpg" crc="469165266" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0471217x145.jpg" crc="4205652686" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0477217x145.jpg" crc="4112865172" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0487217x145.jpg" crc="4218875297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0494217x145.jpg" crc="3864570280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0499217x145.jpg" crc="4286707413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0503217x145.jpg" crc="4066069759" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0510217x145.jpg" crc="3878678509" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0514217x145.jpg" crc="3810500484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tungurahua217x149.jpg" crc="3959690155" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg conatcto.jpg" crc="54163416" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ubicacion.svg" crc="393419761" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ubicacion_poster_.png" crc="4020335043" ref="index"/>
+    <file name="whatsapp.svg" crc="3885465622" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp_poster_.png" crc="8256506" ref="index"/>
+    <file name="facebook.svg" crc="3951386305" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook_poster_.png" crc="232827021" ref="index"/>
+    <file name="instagram.svg" crc="284365034" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram_poster_.png" crc="4014566033" ref="index"/>
+    <file name="ico-whatsapp.svg" crc="3852892718" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico whatsapp_poster_.png" crc="4212973481" ref="index"/>
+    <file name="el-tingo.svg" crc="14389748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="el tingo _poster_.png" crc="219640744" ref="index"/>
+    <file name="copyray.svg" crc="47332775" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="copyray_poster_.png" crc="4284656657" ref="index"/>
+    <file name="facebook-b.svg" crc="293567223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook b_poster_.png" crc="4054337727" ref="index"/>
+    <file name="ico-whatsapp-b.svg" crc="3799123505" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico whatsapp b_poster_.png" crc="4105049844" ref="index"/>
+    <file name="instagram-b.svg" crc="305277483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram b_poster_.png" crc="4130493130" ref="index"/>
+  </folder>
+  <file name="index.html" crc="137860809" seo="true" mt="1608364555730" redirect="true"/>
+</manifest>
